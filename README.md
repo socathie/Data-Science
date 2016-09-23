@@ -4,5 +4,5 @@ R:
   Data analysis on 2016 Legislative Council Election in Hong Kong  
     
 
-SQL:
+SQL:  
   Projects done in a class on database systems at USC
