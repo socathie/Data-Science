@@ -1,6 +1,6 @@
 #2016 Legislative Council Election in Hong Kong
 
-Data Analysis with R  
+Ongoing data analysis with R  
   
 Source:  
   load-data.R to import data  
