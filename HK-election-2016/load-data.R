@@ -1,0 +1,5 @@
+LC1 <- read.csv("raw-data/2016_cs_result_LC1.csv",row.names=1)
+LC2 <- read.csv("raw-data/2016_cs_result_LC2.csv",row.names=1)
+LC3 <- read.csv("raw-data/2016_cs_result_LC3.csv",row.names=1)
+LC4 <- read.csv("raw-data/2016_cs_result_LC4.csv",row.names=1)
+LC5 <- read.csv("raw-data/2016_cs_result_LC5.csv",row.names=1)
